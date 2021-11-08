@@ -1,4 +1,4 @@
-# fantastic-sniffle
+# Steam Username Changer
 Steam Username Changer
 
 This program requires you to have python and selenium downloaded. 
